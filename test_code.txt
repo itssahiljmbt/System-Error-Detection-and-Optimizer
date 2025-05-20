@@ -1,0 +1,15 @@
+int main() {
+    int x;
+    float y;
+    char c;
+
+    x = 10;
+    y = 20.5;
+    c = 'Z';
+
+    int x;     
+    z = 5;     
+    y = x + 3.2 - 1;
+
+    return 1; 
+}
